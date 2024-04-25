@@ -34,4 +34,6 @@ On observe que la figure a bien été détourer. On notera qu'il faut jouer sur 
 
 # Autre figure :
 
+![Image](Feuille2.png)
+
 

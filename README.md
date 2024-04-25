@@ -30,3 +30,4 @@ C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \(
 ![Image](Goutte_post_algo.png)
 
 
+On observe que la figure a bien été détourer. On notera qu'il faut jouer sur les parametres pour obtenir les résultats et qu'il n'y a pas de formule prédéfinie pour les choisir.

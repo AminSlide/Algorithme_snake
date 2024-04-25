@@ -23,7 +23,7 @@ On obtient apres l'initialisation la figure suivante :
 
 Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le compte rendu ) : 
 
-<img src="equation1.png" width="500" height="300">
+<img src="equation1.png" width="200" height="300">
 
 C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence.
 

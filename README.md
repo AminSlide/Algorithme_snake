@@ -18,3 +18,8 @@ On réalise deux hypothèses sur \( c \) :
 - \( c \) se place sur les contours de la forme
 
 On obtient apres l'initialisation la figure suivante :
+
+![Image](Figure_goutte.png)
+
+
+

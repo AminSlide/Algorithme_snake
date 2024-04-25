@@ -25,7 +25,7 @@ Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le comp
 
 ![Image](images/equation.png)
 
-C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence. Les parametres utilisés sont : alpha = 1, beta = 0,5 et gamma = 15 on obtient apres 16 000 itérations la figure suivante :
+C’est l'équation à résoudre de sorte que ce soit le contour qui minimise l'energie globale du snake. Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence. Les parametres utilisés sont : alpha = 1, beta = 0,5 et gamma = 15 on obtient apres 16 000 itérations la figure suivante :
 
 ![Image](images/Goutte_post_algo.png)
 

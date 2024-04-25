@@ -25,6 +25,8 @@ Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le comp
 
 <img src="equation1.png" width="600" height="175">
 
-C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence.
+C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence. Les parametres utilisés sont : alpha = 1, beta = 0,5 et gamma = 15 on obtient apres 16 000 itérations la figure suivante :
+
+![Image](Goutte_post_algo.png)
 
 

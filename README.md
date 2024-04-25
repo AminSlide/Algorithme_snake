@@ -21,5 +21,10 @@ On obtient apres l'initialisation la figure suivante :
 
 ![Image](Figure_goutte.png)
 
+Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le compte rendu ) : 
+`α/2 * ||c'(s)||^2 + β/2 * ||c''(s)||^2 - γ * ||∇||`
 
+C’est l’´equation `a r´esoudre de sorte que c’est le contour qui minimise E. Cependant cette ´equation
+diff´erentielle est difficile `a r´esoudre `a cause du dernier membre. C’est pour cela qu’on a impl´ementer
+dans ce TP le sch´ema it´eratif de convergence.
 

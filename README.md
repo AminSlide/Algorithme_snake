@@ -8,7 +8,9 @@ On dispose d'une image dont on souhaite contourer l'objet. Ici, on prend l'exemp
 ![Image](im_goutte.png)
 
 On définit ainsi notre snake \( c \) comme une liste contenant les coordonnées de tous les points du contour :
-\[ c(s) = \begin{pmatrix} x(s) \\ y(s) \end{pmatrix}, \quad s \in [0, 1] \]
+c(s) = | x(s) |
+       | y(s) |,  s ∈ [0, 1]
+
 La courbe \( c \) est donc une courbe lisse et fermée et on l'initialise de sorte que se soit un cercle. Cette courbe prend en paramètre un réel entre 0 et 1 (abscisse curviligne). Étant fermée, on a évidemment \( c(0) = c(1) \).
 
 On réalise deux hypothèses sur \( c \) :

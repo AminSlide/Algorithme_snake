@@ -3,4 +3,5 @@ L’objectif est d’utiliser l’algorithme des snakes comme une alternative pl
 
 # Explication de l'algorithme
 
-On dispose d'une image dont on souhaite contourer l'objet. Ici on prend l'exemple d'une goutte : ![Image](im_goutte.png)
+On dispose d'une image dont on souhaite contourer l'objet. Ici on prend l'exemple d'une goutte : 
+![Image](im_goutte.png)

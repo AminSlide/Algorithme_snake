@@ -5,7 +5,7 @@ L’objectif est d’utiliser l’algorithme des snakes comme une alternative pl
 
 On dispose d'une image dont on souhaite contourer l'objet. Ici, on prend l'exemple d'une goutte :
 
-![Image](im_goutte.png)
+![Image](image/im_goutte.png)
 
 On définit ainsi notre snake \( c \) comme une liste contenant les coordonnées de tous les points du contour :
 c(s) = | x(s) |

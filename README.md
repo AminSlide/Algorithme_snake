@@ -22,8 +22,8 @@ On obtient apres l'initialisation la figure suivante :
 ![Image](Figure_goutte.png)
 
 Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le compte rendu ) : 
-`α/2 * ||c'(s)||^2 + β/2 * ||c''(s)||^2 - γ * ||∇||`
-
+\( \alpha(2)(s) - \beta(4)(s) + \gamma \nabla \|\nabla\| \)
+`
 C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence.
 
 

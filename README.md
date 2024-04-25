@@ -19,21 +19,21 @@ On réalise deux hypothèses sur \( c \) :
 
 On obtient apres l'initialisation la figure suivante :
 
-![Image](Figure_goutte.png)
+![Image](images/Figure_goutte.png)
 
 Maintenant nous devons resoudre l'equation suivante ( voir pourquoi dans le compte rendu ) : 
 
-![Image](equation.png)
+![Image](images/equation.png)
 
 C’est l'équation à résoudre de sorte que ce soit le contour qui minimise \( E \). Cependant, cette équation différentielle est difficile à résoudre à cause du dernier terme. C’est pour cela qu’on a implémenté dans le schéma itératif de convergence. Les parametres utilisés sont : alpha = 1, beta = 0,5 et gamma = 15 on obtient apres 16 000 itérations la figure suivante :
 
-![Image](Goutte_post_algo.png)
+![Image](images/Goutte_post_algo.png)
 
 
 On observe que la figure a bien été détourer. On notera qu'il faut jouer sur les parametres pour obtenir les résultats et qu'il n'y a pas de formule prédéfinie pour les choisir.
 
 # Autre figure :
 
-![Image](Feuille2.png)
+![Image](images/Feuille2.png)
 
 
